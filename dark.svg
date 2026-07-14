@@ -1,4 +1,4 @@
-<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ong Siew Tyng - Software Engineer">
+<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Venus - Software Engineer">
   <defs>
     <clipPath id="canvasClip"><rect x="1" y="1" width="1178" height="608" rx="28"/></clipPath>
     <clipPath id="leftClip"><rect x="30" y="30" width="418" height="550" rx="20"/></clipPath>
@@ -631,7 +631,7 @@
         </text>
         <text x="536" y="164" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800" fill="#F8FAFC" opacity="0">
           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.001;1" dur="0.01s" begin="0.75s" fill="freeze"/>
-          I'm <tspan fill="url(#accentGrad)" filter="url(#textGlow)">Ong Siew Tyng</tspan>
+          I'm <tspan fill="url(#accentGrad)" filter="url(#textGlow)">Venus</tspan>
         </text>
 
         <!-- rotating role, typewriter -->
